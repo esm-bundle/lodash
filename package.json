@@ -37,6 +37,6 @@
   "homepage": "https://github.com/esm-bundle/lodash#readme",
   "devDependencies": {
     "esm-bundle-scripts": "1.2.0",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "4.17.15"
   }
 }
