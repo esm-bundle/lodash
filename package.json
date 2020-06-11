@@ -1,7 +1,7 @@
 {
   "name": "@esm-bundle/lodash",
-  "version": "20.0.0",
-  "description": "Repo to test esm-bundle's automatic publishing",
+  "version": "4.17.15",
+  "description": "Repo/project to create a systemjs bundle of lodash",
   "main": "index.js",
   "module": "esm/index.js",
   "type": "module",
@@ -37,6 +37,6 @@
   "homepage": "https://github.com/esm-bundle/lodash#readme",
   "devDependencies": {
     "esm-bundle-scripts": "1.2.0",
-    "lodash": "^4.17.15"
+    "lodash-es": "^4.17.15"
   }
 }
