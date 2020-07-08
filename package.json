@@ -1,6 +1,6 @@
 {
   "name": "@esm-bundle/lodash",
-  "version": "4.17.17",
+  "version": "4.17.18",
   "description": "Repo/project to create a systemjs bundle of lodash",
   "main": "index.js",
   "module": "esm/index.js",
