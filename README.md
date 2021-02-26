@@ -1,6 +1,6 @@
 # lodash
 
-[![npm version](https://img.shields.io/npm/v/@esm-bundle/lodash.svg?style=flat)](https://www.npmjs.com/package/@esm-bundle/lodash) [![build status](https://travis-ci.com/esm-bundle/lodash.svg?branch=master)](https://travis-ci.com/esm-bundle/lodash) [![](https://data.jsdelivr.com/v1/package/npm/@esm-bundle/lodash/badge)](https://www.jsdelivr.com/package/npm/@esm-bundle/lodash)
+[![npm version](https://img.shields.io/npm/v/@esm-bundle/lodash.svg?style=flat)](https://www.npmjs.com/package/@esm-bundle/lodash) [![](https://data.jsdelivr.com/v1/package/npm/@esm-bundle/lodash/badge)](https://www.jsdelivr.com/package/npm/@esm-bundle/lodash)
 
 ["What is this" blog post](https://medium.com/@joeldenning/an-esm-bundle-for-any-npm-package-5f850db0e04d)
 
