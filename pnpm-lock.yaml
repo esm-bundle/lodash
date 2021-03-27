@@ -13,8 +13,8 @@ devDependencies:
   pretty-quick: 3.1.0_prettier@2.2.1
   release-it: 14.5.0
   release-it-plugin-esm-bundle: 2.1.0
-  rollup: 2.42.4
-  rollup-plugin-terser: 7.0.2_rollup@2.42.4
+  rollup: 2.43.0
+  rollup-plugin-terser: 7.0.2_rollup@2.43.0
 lockfileVersion: 5.2
 packages:
   /@babel/code-frame/7.12.13:
@@ -5045,11 +5045,11 @@ packages:
     hasBin: true
     resolution:
       integrity: sha512-JZkJMZkAGFFPP2YqXZXPbMlMBgsxzE8ILs4lMIX/2o0L9UBw9O/Y3o6wFw/i9YLapcUJWwqbi3kdxIPdC62TIA==
-  /rollup-plugin-terser/7.0.2_rollup@2.42.4:
+  /rollup-plugin-terser/7.0.2_rollup@2.43.0:
     dependencies:
       '@babel/code-frame': 7.12.13
       jest-worker: 26.6.2
-      rollup: 2.42.4
+      rollup: 2.43.0
       serialize-javascript: 4.0.0
       terser: 5.6.0
     dev: true
@@ -5057,7 +5057,7 @@ packages:
       rollup: ^2.0.0
     resolution:
       integrity: sha512-w3iIaU4OxcF52UUXiZNsNeuXIMDvFrr+ZXK6bFZ0Q60qyVfq4uLptoS4bbq3paG3x216eQllFZX7zt6TIImguQ==
-  /rollup/2.42.4:
+  /rollup/2.43.0:
     dev: true
     engines:
       node: '>=10.0.0'
@@ -5065,7 +5065,7 @@ packages:
     optionalDependencies:
       fsevents: 2.3.2
     resolution:
-      integrity: sha512-Zqv3EvNfcllBHyyEUM754npqsZw82VIjK34cDQMwrQ1d6aqxzeYu5yFb7smGkPU4C1Bj7HupIMeT6WU7uIdnMw==
+      integrity: sha512-FRsYGqlo1iF/w3bv319iStAK0hyhhwon35Cbo7sGUoXaOpsZFy6Lel7UoGb5bNDE4OsoWjMH94WiVvpOM26l3g==
   /rsvp/4.8.5:
     dev: true
     engines:
@@ -6243,5 +6243,5 @@ specifiers:
   pretty-quick: 3.1.0
   release-it: 14.5.0
   release-it-plugin-esm-bundle: 2.1.0
-  rollup: 2.42.4
+  rollup: 2.43.0
   rollup-plugin-terser: 7.0.2
