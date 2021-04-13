@@ -15,7 +15,7 @@ specifiers:
   pretty-quick: 3.1.0
   release-it: 14.6.1
   release-it-plugin-esm-bundle: 2.1.0
-  rollup: 2.45.1
+  rollup: 2.45.2
   rollup-plugin-terser: 7.0.2
 
 devDependencies:
@@ -33,8 +33,8 @@ devDependencies:
   pretty-quick: 3.1.0_prettier@2.2.1
   release-it: 14.6.1
   release-it-plugin-esm-bundle: 2.1.0
-  rollup: 2.45.1
-  rollup-plugin-terser: 7.0.2_rollup@2.45.1
+  rollup: 2.45.2
+  rollup-plugin-terser: 7.0.2_rollup@2.45.2
 
 packages:
 
@@ -4754,20 +4754,20 @@ packages:
       glob: 7.1.6
     dev: true
 
-  /rollup-plugin-terser/7.0.2_rollup@2.45.1:
+  /rollup-plugin-terser/7.0.2_rollup@2.45.2:
     resolution: {integrity: sha512-w3iIaU4OxcF52UUXiZNsNeuXIMDvFrr+ZXK6bFZ0Q60qyVfq4uLptoS4bbq3paG3x216eQllFZX7zt6TIImguQ==}
     peerDependencies:
       rollup: ^2.0.0
     dependencies:
       '@babel/code-frame': 7.12.13
       jest-worker: 26.6.2
-      rollup: 2.45.1
+      rollup: 2.45.2
       serialize-javascript: 4.0.0
       terser: 5.6.0
     dev: true
 
-  /rollup/2.45.1:
-    resolution: {integrity: sha512-vPD+JoDj3CY8k6m1bLcAFttXMe78P4CMxoau0iLVS60+S9kLsv2379xaGy4NgYWu+h2WTlucpoLPAoUoixFBag==}
+  /rollup/2.45.2:
+    resolution: {integrity: sha512-kRRU7wXzFHUzBIv0GfoFFIN3m9oteY4uAsKllIpQDId5cfnkWF2J130l+27dzDju0E6MScKiV0ZM5Bw8m4blYQ==}
     engines: {node: '>=10.0.0'}
     hasBin: true
     optionalDependencies:
