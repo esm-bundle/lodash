@@ -14,7 +14,6 @@ specifiers:
   prettier: 2.2.1
   pretty-quick: 3.1.0
   release-it: 14.6.1
-  release-it-plugin-esm-bundle: 2.1.0
   rollup: 2.45.2
   rollup-plugin-terser: 7.0.2
 
@@ -32,7 +31,6 @@ devDependencies:
   prettier: 2.2.1
   pretty-quick: 3.1.0_prettier@2.2.1
   release-it: 14.6.1
-  release-it-plugin-esm-bundle: 2.1.0
   rollup: 2.45.2
   rollup-plugin-terser: 7.0.2_rollup@2.45.2
 
@@ -4555,10 +4553,6 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       rc: 1.2.8
-    dev: true
-
-  /release-it-plugin-esm-bundle/2.1.0:
-    resolution: {integrity: sha512-AWnkgV488lCVqrUX69PppbdtfuHANXBPIpozr9NbjNp+MZTKtFeBvu8+bSwzxY3EUn0vCOa3MEXTi15eUc+d3A==}
     dev: true
 
   /release-it/14.6.1:

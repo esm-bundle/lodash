@@ -6,6 +6,6 @@
     "access": "public"
   },
   "plugins": {
-    "release-it-plugin-esm-bundle": {}
+    "./customized-esm-bundle-plugin.js": {}
   }
 }
