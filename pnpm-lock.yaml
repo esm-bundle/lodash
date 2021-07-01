@@ -3,7 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   chai: 4.3.4
   concurrently: 6.2.0
-  husky: 6.0.0
+  husky: 7.0.0
   jest-cli: 27.0.6
   karma: 6.3.4
   karma-firefox-launcher: 2.1.1
@@ -20,7 +20,7 @@ specifiers:
 devDependencies:
   chai: 4.3.4
   concurrently: 6.2.0
-  husky: 6.0.0
+  husky: 7.0.0
   jest-cli: 27.0.6
   karma: 6.3.4
   karma-firefox-launcher: 2.1.1
@@ -2310,8 +2310,9 @@ packages:
     engines: {node: '>=10.17.0'}
     dev: true
 
-  /husky/6.0.0:
-    resolution: {integrity: sha512-SQS2gDTB7tBN486QSoKPKQItZw97BMOd+Kdb6ghfpBc0yXyzrddI0oDV5MkDAbuB4X2mO3/nj60TRMcYxwzZeQ==}
+  /husky/7.0.0:
+    resolution: {integrity: sha512-xK7lO0EtSzfFPiw+oQncQVy/XqV7UVVjxBByc+Iv5iK3yhW9boDoWgvZy3OGo48QKg/hUtZkzz0hi2HXa0kn7w==}
+    engines: {node: '>=12'}
     hasBin: true
     dev: true
 
