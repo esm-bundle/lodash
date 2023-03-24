@@ -11,7 +11,7 @@ specifiers:
   lodash-es: 4.17.21
   mocha: 10.2.0
   pinst: 3.0.0
-  prettier: 2.8.6
+  prettier: 2.8.7
   pretty-quick: 3.1.3
   release-it: 15.9.1
   rollup: 2.79.1
@@ -28,8 +28,8 @@ devDependencies:
   lodash-es: 4.17.21
   mocha: 10.2.0
   pinst: 3.0.0
-  prettier: 2.8.6
-  pretty-quick: 3.1.3_prettier@2.8.6
+  prettier: 2.8.7
+  pretty-quick: 3.1.3_prettier@2.8.7
   release-it: 15.9.1
   rollup: 2.79.1
   rollup-plugin-terser: 7.0.2_rollup@2.79.1
@@ -4135,8 +4135,8 @@ packages:
     engines: {node: '>= 0.8.0'}
     dev: true
 
-  /prettier/2.8.6:
-    resolution: {integrity: sha512-mtuzdiBbHwPEgl7NxWlqOkithPyp4VN93V7VeHVWBF+ad3I5avc0RVDT4oImXQy9H/AqxA2NSQH8pSxHW6FYbQ==}
+  /prettier/2.8.7:
+    resolution: {integrity: sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: true
@@ -4150,7 +4150,7 @@ packages:
       react-is: 18.0.0
     dev: true
 
-  /pretty-quick/3.1.3_prettier@2.8.6:
+  /pretty-quick/3.1.3_prettier@2.8.7:
     resolution: {integrity: sha512-kOCi2FJabvuh1as9enxYmrnBC6tVMoVOenMaBqRfsvBHB0cbpYHjdQEpSglpASDFEXVwplpcGR4CLEaisYAFcA==}
     engines: {node: '>=10.13'}
     hasBin: true
@@ -4163,7 +4163,7 @@ packages:
       ignore: 5.1.8
       mri: 1.1.6
       multimatch: 4.0.0
-      prettier: 2.8.6
+      prettier: 2.8.7
     dev: true
 
   /promise.allsettled/1.0.6:
