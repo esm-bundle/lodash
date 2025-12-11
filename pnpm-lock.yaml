@@ -13,7 +13,7 @@ specifiers:
   pinst: 3.0.0
   prettier: 2.8.8
   pretty-quick: 4.2.2
-  release-it: 19.0.6
+  release-it: 19.1.0
   rollup: 2.79.2
   rollup-plugin-terser: 7.0.2
 
@@ -30,7 +30,7 @@ devDependencies:
   pinst: 3.0.0
   prettier: 2.8.8
   pretty-quick: 4.2.2_prettier@2.8.8
-  release-it: 19.0.6
+  release-it: 19.1.0
   rollup: 2.79.2
   rollup-plugin-terser: 7.0.2_rollup@2.79.2
 
@@ -3758,8 +3758,8 @@ packages:
     engines: {node: '>= 14.18.0'}
     dev: true
 
-  /release-it/19.0.6:
-    resolution: {integrity: sha512-XTCNZ2mV9wjASQmc2bcQjA+ImJiFMijbFSyQE6lDmP1Plq17acjYaoY5FmJb5Lh/Nv4UDwfRlKQMv1DvHFKf1g==}
+  /release-it/19.1.0:
+    resolution: {integrity: sha512-XgAIZVKgHgOBUUoLFrUfXHG4cUDiXPWFW0AHIAgk17Tk9JbIjz9YyAU8MyQer7dWkfG5IpNU9QH8tViQZGfhaw==}
     engines: {node: ^20.12.0 || >=22.0.0}
     hasBin: true
     dependencies:
