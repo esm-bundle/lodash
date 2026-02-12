@@ -43,7 +43,7 @@
     "lodash-es": "4.17.23",
     "mocha": "10.8.2",
     "pinst": "3.0.0",
-    "prettier": "2.8.8",
+    "prettier": "3.8.1",
     "pretty-quick": "4.2.2",
     "release-it": "19.2.4",
     "rollup": "2.79.2",
